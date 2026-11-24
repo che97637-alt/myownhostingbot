@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
+    "ip": "InkwellSMP.aternos.me:58139",
     "port": 25565,
     "version": "",
     "try-creative": false
